@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banks 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  	xmlns="http://www.example.com/banks"
+	  	xsi:schemaLocation="http://www.example.com/banks banks.xsd">
+	<cardaccount type="VISA" ccv="225">
+		<id>M0031</id>
+		<bankname>Belarusbank</bankname>
+		<country>Belarus</country>
+		<amountondeposit>5400</amountondeposit>
+		<profitability>9</profitability>
+		<time>48</time>
+		<name>Ivan</name>
+		<surname>Alexeev</surname>
+		<address>Pushkin Str.</address>
+		<passportnumber>3226987</passportnumber>
+	</cardaccount>
+
+	<bankdeposit type="accumulation">
+		<id>A0564</id>
+		<bankname>Belagroprombank</bankname>
+		<country>Belarus</country>
+		<amountondeposit>654684</amountondeposit>
+		<profitability>21</profitability>
+		<time>36</time>
+		<name>Alex</name>
+		<surname>Porkin</surname>
+		<address>Kirova Str.</address>
+		<passportnumber>8546951</passportnumber>
+	</bankdeposit>
+
+	<bankdeposit type="demand">
+		<id>B00548</id>
+		<bankname>BelinvestBank</bankname>
+		<country>belarus</country>
+		<amountondeposit>469874</amountondeposit>
+		<profitability>12</profitability>
+		<time>24</time>
+		<name>ANdrei</name>
+		<surname>Nemcov</surname>
+		<address>Smenovs Str.</address>
+		<passportnumber>9843652</passportnumber>
+	</bankdeposit>
+	<cardaccount type="VISA" ccv="954">
+		<id>T635435</id>
+		<bankname>Belarusbank</bankname>
+		<country>Belarus</country>
+		<amountondeposit>65454</amountondeposit>
+		<profitability>21</profitability>
+		<time>6</time>
+		<name>Viktor</name>
+		<surname>Bobrov</surname>
+		<address>Ostani Str.</address>
+		<passportnumber>7458523</passportnumber>
+	</cardaccount>
+	<bankdeposit type="saving">
+		<id>G646854</id>
+		<bankname>Sberbank</bankname>
+		<country>Russia</country>
+		<amountondeposit>68546845</amountondeposit>
+		<profitability>33</profitability>
+		<time>7</time>
+		<name>Vadim</name>
+		<surname>Gereenko</surname>
+		<address>Qvarta Str.</address>
+		<passportnumber>7412568</passportnumber>
+	</bankdeposit>
+	<cardaccount type="VISA" ccv="554">
+		<id>T54654</id>
+		<bankname>Rosstrh</bankname>
+		<country>Russia</country>
+		<amountondeposit>654654</amountondeposit>
+		<profitability>11</profitability>
+		<time>4</time>
+		<name>Konstantin</name>
+		<surname>Varakhay</surname>
+		<address>Oregova Str.</address>
+		<passportnumber>2235687</passportnumber>
+	</cardaccount>
+	<cardaccount type="VISA" ccv="778">
+		<id>J54455</id>
+		<bankname>Asserix</bankname>
+		<country>China</country>
+		<amountondeposit>5465444</amountondeposit>
+		<profitability>10</profitability>
+		<time>23</time>
+		<name>Ulart</name>
+		<surname>Yakivks</surname>
+		<address>Suvorov Str.</address>
+		<passportnumber>7778559</passportnumber>
+	</cardaccount>
+	<bankdeposit type="fixed">
+		<id>L5465</id>
+		<bankname>iBank</bankname>
+		<country>USA</country>
+		<amountondeposit>3514684</amountondeposit>
+		<profitability>14</profitability>
+		<time>12</time>
+		<name>Kirill</name>
+		<surname>Alimov</surname>
+		<address>Aharova Str.</address>
+		<passportnumber>8521564</passportnumber>
+	</bankdeposit>
+	<bankdeposit type="settlement">
+		<id>B5413</id>
+		<bankname>Qmoney</bankname>
+		<country>Zimbabve</country>
+		<amountondeposit>12</amountondeposit>
+		<profitability>1</profitability>
+		<time>65</time>
+		<name>Ali</name>
+		<surname>Kula</surname>
+		<address>Allla Str.</address>
+		<passportnumber>1687415</passportnumber>
+	</bankdeposit>
+	<cardaccount type="VISA" ccv="432">
+		<id>J5846</id>
+		<bankname>FIBnak</bankname>
+		<country>USA</country>
+		<amountondeposit>654654</amountondeposit>
+		<profitability>45</profitability>
+		<time>56</time>
+		<name>John</name>
+		<surname>Adisson</surname>
+		<address>Herex Str.</address>
+		<passportnumber>4128967</passportnumber>
+	</cardaccount>
+	<cardaccount type="VISA" ccv="554">
+		<id>T54635454</id>
+		<bankname>Rossgtrh</bankname>
+		<country>Russia</country>
+		<amountondeposit>654654</amountondeposit>
+		<profitability>11</profitability>
+		<time>4</time>
+		<name>Konstantin</name>
+		<surname>Varakhsdfgay</surname>
+		<address>Oregova Str.</address>
+		<passportnumber>2235687</passportnumber>
+	</cardaccount>
+	<cardaccount type="VISA" ccv="758">
+		<id>J54448</id>
+		<bankname>Asserixe</bankname>
+		<country>China</country>
+		<amountondeposit>5465444</amountondeposit>
+		<profitability>10</profitability>
+		<time>23</time>
+		<name>Ulart</name>
+		<surname>Yakivks</surname>
+		<address>Suvorov Str.</address>
+		<passportnumber>7778559</passportnumber>
+	</cardaccount>
+	<bankdeposit type="fixed">
+		<id>L5465</id>
+		<bankname>iBank</bankname>
+		<country>USA</country>
+		<amountondeposit>35145234</amountondeposit>
+		<profitability>14</profitability>
+		<time>12</time>
+		<name>Kirill</name>
+		<surname>Alimov</surname>
+		<address>Aharova Str.</address>
+		<passportnumber>8521564</passportnumber>
+	</bankdeposit>
+	<bankdeposit type="settlement">
+		<id>B5413</id>
+		<bankname>Qmoney</bankname>
+		<country>Zimbabve</country>
+		<amountondeposit>12</amountondeposit>
+		<profitability>1</profitability>
+		<time>65</time>
+		<name>Ali</name>
+		<surname>Kula</surname>
+		<address>Allla Str.</address>
+		<passportnumber>1587415</passportnumber>
+	</bankdeposit>
+	<cardaccount type="VISA" ccv="432">
+		<id>J5846</id>
+		<bankname>FIBnak</bankname>
+		<country>USA</country>
+		<amountondeposit>456654</amountondeposit>
+		<profitability>45</profitability>
+		<time>56</time>
+		<name>John</name>
+		<surname>Adisson</surname>
+		<address>Herex Str.</address>
+		<passportnumber>4128967</passportnumber>
+	</cardaccount>
+	<bankdeposit type="fixed">
+		<id>A0564</id>
+		<bankname>Belagroprombank</bankname>
+		<country>Belarus</country>
+		<amountondeposit>654684</amountondeposit>
+		<profitability>21</profitability>
+		<time>36</time>
+		<name>Alex</name>
+		<surname>Porkin</surname>
+		<address>Kirova Str.</address>
+		<passportnumber>8546951</passportnumber>
+	</bankdeposit>
+</banks>

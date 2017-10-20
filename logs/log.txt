@@ -1,0 +1,1158 @@
+2017-02-15 23:25:10.560 | INFO  | main       | [
+
+Money{id='B00548'
+, bankname='BelinvestBank'
+, country='belarus'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANdrei'
+, surname='Nemcov'
+, address='Smenovs Str.'
+, passportnumber=9843652
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='J54448'
+, bankname='Asserixe'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1587415
+}, 
+
+Money{id='T54654'
+, bankname='Rosstrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='T635435'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='Viktor'
+, surname='Bobrov'
+, address='Ostani Str.'
+, passportnumber=7458523
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1687415
+}, 
+
+Money{id='M0031'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='Ivan'
+, surname='Alexeev'
+, address='Pushkin Str.'
+, passportnumber=3226987
+}, 
+
+Money{id='G646854'
+, bankname='Sberbank'
+, country='Russia'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='Vadim'
+, surname='Gereenko'
+, address='Qvarta Str.'
+, passportnumber=7412568
+}, 
+
+Money{id='J54455'
+, bankname='Asserix'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='T54635454'
+, bankname='Rossgtrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhsdfgay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}]
+2017-02-15 23:25:10.566 | INFO  | main       | [
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='J54448'
+, bankname='Asserixe'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='J54455'
+, bankname='Asserix'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='T635435'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='Viktor'
+, surname='Bobrov'
+, address='Ostani Str.'
+, passportnumber=7458523
+}, 
+
+Money{id='T54635454'
+, bankname='Rossgtrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhsdfgay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='G646854'
+, bankname='Sberbank'
+, country='Russia'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='Vadim'
+, surname='Gereenko'
+, address='Qvarta Str.'
+, passportnumber=7412568
+}, 
+
+Money{id='M0031'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='Ivan'
+, surname='Alexeev'
+, address='Pushkin Str.'
+, passportnumber=3226987
+}, 
+
+Money{id='B00548'
+, bankname='BelinvestBank'
+, country='belarus'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANdrei'
+, surname='Nemcov'
+, address='Smenovs Str.'
+, passportnumber=9843652
+}, 
+
+Money{id='T54654'
+, bankname='Rosstrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1587415
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1687415
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}]
+2017-02-15 23:25:13.813 | INFO  | main       | [
+
+Money{id='M0031'
+, bankname='BELARUSBANK'
+, country='null'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='IVAN'
+, surname='ALEXEEV'
+, address='PUSHKIN STR.'
+, passportnumber=3226987
+}, 
+
+Money{id='G646854'
+, bankname='SBERBANK'
+, country='null'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='VADIM'
+, surname='GEREENKO'
+, address='QVARTA STR.'
+, passportnumber=7412568
+}, 
+
+Money{id='B5413'
+, bankname='QMONEY'
+, country='null'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='ALI'
+, surname='KULA'
+, address='ALLLA STR.'
+, passportnumber=1587415
+}, 
+
+Money{id='T54654'
+, bankname='ROSSTRH'
+, country='null'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='KONSTANTIN'
+, surname='VARAKHAY'
+, address='OREGOVA STR.'
+, passportnumber=2235687
+}, 
+
+Money{id='J5846'
+, bankname='FIBNAK'
+, country='null'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='JOHN'
+, surname='ADISSON'
+, address='HEREX STR.'
+, passportnumber=4128967
+}, 
+
+Money{id='J54448'
+, bankname='ASSERIXE'
+, country='null'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='ULART'
+, surname='YAKIVKS'
+, address='SUVOROV STR.'
+, passportnumber=7778559
+}, 
+
+Money{id='J54455'
+, bankname='ASSERIX'
+, country='null'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='ULART'
+, surname='YAKIVKS'
+, address='SUVOROV STR.'
+, passportnumber=7778559
+}, 
+
+Money{id='J5846'
+, bankname='FIBNAK'
+, country='null'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='JOHN'
+, surname='ADISSON'
+, address='HEREX STR.'
+, passportnumber=4128967
+}, 
+
+Money{id='A0564'
+, bankname='BELAGROPROMBANK'
+, country='null'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='ALEX'
+, surname='PORKIN'
+, address='KIROVA STR.'
+, passportnumber=8546951
+}, 
+
+Money{id='B5413'
+, bankname='QMONEY'
+, country='null'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='ALI'
+, surname='KULA'
+, address='ALLLA STR.'
+, passportnumber=1687415
+}, 
+
+Money{id='T635435'
+, bankname='BELARUSBANK'
+, country='null'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='VIKTOR'
+, surname='BOBROV'
+, address='OSTANI STR.'
+, passportnumber=7458523
+}, 
+
+Money{id='L5465'
+, bankname='IBANK'
+, country='null'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='KIRILL'
+, surname='ALIMOV'
+, address='AHAROVA STR.'
+, passportnumber=8521564
+}, 
+
+Money{id='A0564'
+, bankname='BELAGROPROMBANK'
+, country='null'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='ALEX'
+, surname='PORKIN'
+, address='KIROVA STR.'
+, passportnumber=8546951
+}, 
+
+Money{id='T54635454'
+, bankname='ROSSGTRH'
+, country='null'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='KONSTANTIN'
+, surname='VARAKHSDFGAY'
+, address='OREGOVA STR.'
+, passportnumber=2235687
+}, 
+
+Money{id='B00548'
+, bankname='BELINVESTBANK'
+, country='null'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANDREI'
+, surname='NEMCOV'
+, address='SMENOVS STR.'
+, passportnumber=9843652
+}, 
+
+Money{id='L5465'
+, bankname='IBANK'
+, country='null'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='KIRILL'
+, surname='ALIMOV'
+, address='AHAROVA STR.'
+, passportnumber=8521564
+}]
+2017-02-15 23:25:13.818 | INFO  | main       | [
+
+Money{id='G646854'
+, bankname='SBERBANK'
+, country='null'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='VADIM'
+, surname='GEREENKO'
+, address='QVARTA STR.'
+, passportnumber=7412568
+}, 
+
+Money{id='B00548'
+, bankname='BELINVESTBANK'
+, country='null'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANDREI'
+, surname='NEMCOV'
+, address='SMENOVS STR.'
+, passportnumber=9843652
+}, 
+
+Money{id='J54448'
+, bankname='ASSERIXE'
+, country='null'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='ULART'
+, surname='YAKIVKS'
+, address='SUVOROV STR.'
+, passportnumber=7778559
+}, 
+
+Money{id='B5413'
+, bankname='QMONEY'
+, country='null'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='ALI'
+, surname='KULA'
+, address='ALLLA STR.'
+, passportnumber=1587415
+}, 
+
+Money{id='J5846'
+, bankname='FIBNAK'
+, country='null'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='JOHN'
+, surname='ADISSON'
+, address='HEREX STR.'
+, passportnumber=4128967
+}, 
+
+Money{id='T54635454'
+, bankname='ROSSGTRH'
+, country='null'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='KONSTANTIN'
+, surname='VARAKHSDFGAY'
+, address='OREGOVA STR.'
+, passportnumber=2235687
+}, 
+
+Money{id='A0564'
+, bankname='BELAGROPROMBANK'
+, country='null'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='ALEX'
+, surname='PORKIN'
+, address='KIROVA STR.'
+, passportnumber=8546951
+}, 
+
+Money{id='B5413'
+, bankname='QMONEY'
+, country='null'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='ALI'
+, surname='KULA'
+, address='ALLLA STR.'
+, passportnumber=1687415
+}, 
+
+Money{id='L5465'
+, bankname='IBANK'
+, country='null'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='KIRILL'
+, surname='ALIMOV'
+, address='AHAROVA STR.'
+, passportnumber=8521564
+}, 
+
+Money{id='A0564'
+, bankname='BELAGROPROMBANK'
+, country='null'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='ALEX'
+, surname='PORKIN'
+, address='KIROVA STR.'
+, passportnumber=8546951
+}, 
+
+Money{id='L5465'
+, bankname='IBANK'
+, country='null'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='KIRILL'
+, surname='ALIMOV'
+, address='AHAROVA STR.'
+, passportnumber=8521564
+}, 
+
+Money{id='M0031'
+, bankname='BELARUSBANK'
+, country='null'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='IVAN'
+, surname='ALEXEEV'
+, address='PUSHKIN STR.'
+, passportnumber=3226987
+}, 
+
+Money{id='J5846'
+, bankname='FIBNAK'
+, country='null'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='JOHN'
+, surname='ADISSON'
+, address='HEREX STR.'
+, passportnumber=4128967
+}, 
+
+Money{id='T54654'
+, bankname='ROSSTRH'
+, country='null'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='KONSTANTIN'
+, surname='VARAKHAY'
+, address='OREGOVA STR.'
+, passportnumber=2235687
+}, 
+
+Money{id='T635435'
+, bankname='BELARUSBANK'
+, country='null'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='VIKTOR'
+, surname='BOBROV'
+, address='OSTANI STR.'
+, passportnumber=7458523
+}, 
+
+Money{id='J54455'
+, bankname='ASSERIX'
+, country='null'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='ULART'
+, surname='YAKIVKS'
+, address='SUVOROV STR.'
+, passportnumber=7778559
+}]
+2017-02-15 23:25:16.922 | INFO  | main       | [
+
+Money{id='M0031'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='Ivan'
+, surname='Alexeev'
+, address='Pushkin Str.'
+, passportnumber=3226987
+}, 
+
+Money{id='G646854'
+, bankname='Sberbank'
+, country='Russia'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='Vadim'
+, surname='Gereenko'
+, address='Qvarta Str.'
+, passportnumber=7412568
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1587415
+}, 
+
+Money{id='T54654'
+, bankname='Rosstrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='J54448'
+, bankname='Asserixe'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='J54455'
+, bankname='Asserix'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1687415
+}, 
+
+Money{id='T635435'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='Viktor'
+, surname='Bobrov'
+, address='Ostani Str.'
+, passportnumber=7458523
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='T54635454'
+, bankname='Rossgtrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhsdfgay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='B00548'
+, bankname='BelinvestBank'
+, country='belarus'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANdrei'
+, surname='Nemcov'
+, address='Smenovs Str.'
+, passportnumber=9843652
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}]
+2017-02-15 23:25:16.926 | INFO  | main       | [
+
+Money{id='G646854'
+, bankname='Sberbank'
+, country='Russia'
+, amountondeposit=68546845
+, profitability=33
+, time=7
+, name='Vadim'
+, surname='Gereenko'
+, address='Qvarta Str.'
+, passportnumber=7412568
+}, 
+
+Money{id='B00548'
+, bankname='BelinvestBank'
+, country='belarus'
+, amountondeposit=469874
+, profitability=12
+, time=24
+, name='ANdrei'
+, surname='Nemcov'
+, address='Smenovs Str.'
+, passportnumber=9843652
+}, 
+
+Money{id='J54448'
+, bankname='Asserixe'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1587415
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=456654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='T54635454'
+, bankname='Rossgtrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhsdfgay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='B5413'
+, bankname='Qmoney'
+, country='Zimbabve'
+, amountondeposit=12
+, profitability=1
+, time=65
+, name='Ali'
+, surname='Kula'
+, address='Allla Str.'
+, passportnumber=1687415
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=35145234
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='A0564'
+, bankname='Belagroprombank'
+, country='Belarus'
+, amountondeposit=654684
+, profitability=21
+, time=36
+, name='Alex'
+, surname='Porkin'
+, address='Kirova Str.'
+, passportnumber=8546951
+}, 
+
+Money{id='L5465'
+, bankname='iBank'
+, country='USA'
+, amountondeposit=3514684
+, profitability=14
+, time=12
+, name='Kirill'
+, surname='Alimov'
+, address='Aharova Str.'
+, passportnumber=8521564
+}, 
+
+Money{id='M0031'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=5400
+, profitability=9
+, time=48
+, name='Ivan'
+, surname='Alexeev'
+, address='Pushkin Str.'
+, passportnumber=3226987
+}, 
+
+Money{id='J5846'
+, bankname='FIBnak'
+, country='USA'
+, amountondeposit=654654
+, profitability=45
+, time=56
+, name='John'
+, surname='Adisson'
+, address='Herex Str.'
+, passportnumber=4128967
+}, 
+
+Money{id='T54654'
+, bankname='Rosstrh'
+, country='Russia'
+, amountondeposit=654654
+, profitability=11
+, time=4
+, name='Konstantin'
+, surname='Varakhay'
+, address='Oregova Str.'
+, passportnumber=2235687
+}, 
+
+Money{id='T635435'
+, bankname='Belarusbank'
+, country='Belarus'
+, amountondeposit=65454
+, profitability=21
+, time=6
+, name='Viktor'
+, surname='Bobrov'
+, address='Ostani Str.'
+, passportnumber=7458523
+}, 
+
+Money{id='J54455'
+, bankname='Asserix'
+, country='China'
+, amountondeposit=5465444
+, profitability=10
+, time=23
+, name='Ulart'
+, surname='Yakivks'
+, address='Suvorov Str.'
+, passportnumber=7778559
+}]

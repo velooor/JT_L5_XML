@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <properties>
+        <property name="name">app</property>
+        <property name="pattern">%d{yyyy-MM-dd HH:mm:ss.SSS} | %-5.5p | %-10.10t | %msg%n</property>
+        <!--
+        It will look like that:
+        2013-04-03 07:37:51.993 | WARN  | main       | lnetgateway.Server:56    | My app is logging stuff
+        -->
+    </properties>
+    <appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${pattern}"/>
+        </Console>
+        <File name="File"
+              fileName="logs/log.txt">
+          <PatternLayout>
+              <pattern>${pattern}</pattern>
+          </PatternLayout>
+        </File>
+    </appenders>
+    <loggers>
+        <root level="info">
+            <!--<appender-ref ref="Console"/>-->
+            <appender-ref ref="File"/>
+        </root>
+    </loggers>
+</configuration>

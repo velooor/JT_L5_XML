@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://www.example.com/banks"
+		xmlns:tns="http://www.example.com/banks"
+		elementFormDefault="qualified">
+
+	<element name="money" type="tns:Money" abstract="true"></element>
+
+	<element name="banks">
+		<complexType>
+			<sequence>
+				<element ref="tns:money" minOccurs="16" maxOccurs="unbounded"/>
+			</sequence>
+		</complexType>
+	</element>
+
+	<element name="cardaccount" type="tns:CardAccount" substitutionGroup="tns:money"></element>
+	<element name="bankdeposit" type="tns:BankDeposit" substitutionGroup="tns:money"></element>
+
+	<complexType name="Money">
+		<sequence>
+			<element name="id" type="ID"/>
+			<element name="bankname" type="string"/>
+			<element name="country" type="string"/>
+			<element name="amountondeposit" type="tns:Amountondeposit"/>
+			<element name="profitability" type="positiveInteger"/>
+			<element name="time" type="positiveInteger" />
+			<element name="name" type="string"/>
+			<element name="surname" type="string"/>
+			<element name="address" type="string"/>
+			<element name="passportnumber" type="tns:Passportnumber"/>
+		</sequence>
+	</complexType>
+
+	<complexType name="BankDeposit">
+		<complexContent>
+			<extension base="tns:Money">
+				<attribute name="type" use="required">
+					<simpleType>
+						<restriction base="string">
+							<enumeration value="demand"></enumeration>
+							<enumeration value="fixed"></enumeration>
+							<enumeration value="settlement"></enumeration>
+							<enumeration value="accumulation"></enumeration>
+							<enumeration value="saving"></enumeration>
+							<enumeration value="metal"></enumeration>
+						</restriction>
+					</simpleType>
+				</attribute>
+				<attribute name="responsiblemanager" type="string" use="optional" default="Oleg I."/>
+			</extension>
+		</complexContent>
+	</complexType>
+
+	<complexType name="CardAccount">
+		<complexContent>
+			<extension base="tns:Money">
+				<attribute name="type" use="optional">
+					<simpleType>
+						<restriction base="string">
+							<enumeration value="VISA"></enumeration>
+							<enumeration value="MasterCard"></enumeration>
+							<enumeration value="BelCard"></enumeration>
+							<enumeration value="Maestro"></enumeration>
+						</restriction>
+					</simpleType>
+				</attribute>
+
+				<attribute name="ccv" type="positiveInteger" use="required"/>
+
+			</extension>
+		</complexContent>
+	</complexType>
+
+	<simpleType name="Amountondeposit">
+		<restriction base="nonNegativeInteger">
+			<pattern value="(\d)+"/>
+		</restriction>
+	</simpleType>
+
+
+	<simpleType name="Passportnumber">
+		<restriction base="positiveInteger">
+			<pattern value="(\d){7}"/>
+		</restriction>
+	</simpleType>
+</schema>
